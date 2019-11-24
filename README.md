@@ -16,3 +16,10 @@
 
 ## Список всех интерфейсов:
 * [IClient](https://github.com/mrsmyc/itsaboutsmyc/blob/master/IClient.md)
+* [IEmployee](https://github.com/mrsmyc/itsaboutsmyc/blob/master/IEmployee.md)
+* [ITransport](https://github.com/mrsmyc/itsaboutsmyc/blob/master/ITransport.md)
+* [IDriver](https://github.com/mrsmyc/itsaboutsmyc/blob/master/IDriver.md)
+* [IOrder](https://github.com/mrsmyc/itsaboutsmyc/blob/master/IOrder.md)
+* [ISupplier](https://github.com/mrsmyc/itsaboutsmyc/blob/master/ISupplier.md)
+* [IMenu](https://github.com/mrsmyc/itsaboutsmyc/blob/master/IMenu.md)
+* [IDelivery](https://github.com/mrsmyc/itsaboutsmyc/blob/master/IDelivery.md)

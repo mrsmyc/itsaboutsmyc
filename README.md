@@ -15,4 +15,4 @@
 ![Диаграмма интерфейсов](https://github.com/mrsmyc/itsaboutsmyc/blob/master/interface.png)
 
 ## Список всех интерфейсов:
-* [IClient](https://github.com/mrsmyc/itsaboutsmyc/blob/master/IClient)
+* [IClient](https://github.com/mrsmyc/itsaboutsmyc/blob/master/IClient.md)

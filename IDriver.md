@@ -8,11 +8,11 @@
 * GetID(Driver: [Driver](https://github.com/mrsmyc/itsaboutsmyc/blob/master/Driver.md)) : Integer — функция, возвращающая ID определенного водителя. 
 * GetDriverDel(Date1:DateTime,Date2:DateTime):List<[Delivery](https://github.com/mrsmyc/itsaboutsmyc/blob/master/Delivery.md)> - функция, возвращающая список доставок водителя в определенном временном промежутке.
 * GetSchedule(Date1:DateTime,Date2:DateTime): List<String> - функция, возвращающая маршрут водителя.
-* Get Driver (sorting : String, ASKorDESK : string, filterA : Driver,  ilter : Driver, count : int, page : int) : List < [Driver](https://github.com/mrsmyc/itsaboutsmyc/blob/master/Driver.md > — функция, возвращающая список водителей с заданными параметрами.
+* Get Driver (sorting : String, ASKorDESK : string, filterA : Driver,  ilter : Driver, count : int, page : int) : List < [Driver](https://github.com/mrsmyc/itsaboutsmyc/blob/master/Driver.md) > — функция, возвращающая список водителей с заданными параметрами.
  Параметры: 
 -	sortintg: String– отвечает, по какому полю будет сортироваться список:
 -	ASKorDESK : string – отвечает, по возрастанию или убыванию будут сортироваться элементы;
 -	filterA : [Driver](https://github.com/mrsmyc/itsaboutsmyc/blob/master/Driver.md) – отвечает за фильтрацию, включает в себя левую границу интервала значений фильтра;
--	 filterB : [Driver](https://github.com/mrsmyc/itsaboutsmyc/blob/master/Driver.md)ver – отвечает за фильтрацию, включает в себя правую границу интервала значений фильтра; 
+-	 filterB : [Driver](https://github.com/mrsmyc/itsaboutsmyc/blob/master/Driver.md) – отвечает за фильтрацию, включает в себя правую границу интервала значений фильтра; 
 -	count : int – отвечает, сколько элементов необходимо показать;
 -	page: int – отвечает, с какой страницы начинать поиск элементов.

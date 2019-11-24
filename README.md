@@ -9,6 +9,7 @@
 ![Диаграмма компонентов (часть 2)](https://github.com/mrsmyc/itsaboutsmyc/blob/master/comp(2).png)
 
 ![Диаграмма компонентов (часть 3)](https://github.com/mrsmyc/itsaboutsmyc/blob/master/comp(3).png)
+
 На данной диаграмме изображены все компоненты: клиентское приложение, доставка, заказ, водитель, клиент, поставщик, транспорт, работник. Эти компоненты взаимодействуют друг с другом с помощью интерфейсов. 
 ## Диаграмма интерфейсов
 ![Диаграмма интерфейсов](https://github.com/mrsmyc/itsaboutsmyc/blob/master/interface.png)

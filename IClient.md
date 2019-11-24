@@ -12,7 +12,7 @@
   Параметры: 
 -	sortintg: String – отвечает, по какому полю будет сортироваться список:
 -	ASKorDESK : string – отвечает, по возрастанию или убыванию будут сортироваться элементы;
--	filterA : [Client](https://github.com/mrsmyc/itsaboutsmyc/blob/master/Client.md – отвечает за фильтрацию, включает в себя левую границу интервала значений фильтра;
--	filterB : [Client](https://github.com/mrsmyc/itsaboutsmyc/blob/master/Client.md – отвечает за фильтрацию, включает в себя правую границу интервала значений фильтра; 
+-	filterA : [Client](https://github.com/mrsmyc/itsaboutsmyc/blob/master/Client.md) – отвечает за фильтрацию, включает в себя левую границу интервала значений фильтра;
+-	filterB : [Client](https://github.com/mrsmyc/itsaboutsmyc/blob/master/Client.md) – отвечает за фильтрацию, включает в себя правую границу интервала значений фильтра; 
 -	count : int – отвечает, сколько элементов необходимо показать;
 -	page: int – отвечает, с какой страницы начинать поиск элементов.
